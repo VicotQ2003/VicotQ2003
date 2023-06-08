@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @VicotQ2003
 - 👀 I’m interested in being a frontend
 - 🌱 I’m currently learning java and C++
+- 🎓 Second Year of college
+pronoun: He/Him
+Fun Fact: I am not an expert
 
 #Project Name: Inland Empire Solar Sales Travel
 
